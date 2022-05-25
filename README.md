@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-0x00 shell basics
+This Repo contains the description on my shell basics
